@@ -1,13 +1,3 @@
-# =============================================================================
-#                       RSubd www.github.com/wrrulos
-#                   Script to scan subdomains of a domain
-#                            Made by wRRulos
-#                               @wrrulos
-# =============================================================================
-
-# Any error report it to my discord please, thank you.
-# Programmed in Python 3.10.1
-# Discord: Rulo#9224
 
 import socket
 import os
